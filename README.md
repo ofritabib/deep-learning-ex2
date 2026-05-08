@@ -1,1 +1,2 @@
-# deep-learning-ex2
+noam azulay, noam.azulay, 213705957,
+ofri tabib, gprh1, 203120258,
